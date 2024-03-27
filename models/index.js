@@ -2,7 +2,7 @@ import Propiedad from './Propiedad.js';
 import Categoria from './Categoria.js';
 import Precio from './Precio.js';
 import Usuario from './Usuario.js';
-import Mensaje from './mensaje.js';
+import Mensaje from './Mensaje.js';
 
 //* Manera uno de hacerlo
 // Precio.hasOne(Propiedad);
